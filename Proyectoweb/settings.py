@@ -143,4 +143,4 @@ EMAIL_HOST="smtp.gmail.com"
 EMAIL_USE_TLS=True
 EMAIL_PORT=587
 EMAIL_HOST_USER="correosdjango@gmail.com"
-EMAIL_PASSWORD="Jfelipe123"
+EMAIL_PASSWORD="***"
